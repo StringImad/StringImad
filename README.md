@@ -6,7 +6,7 @@
 
 Email : imadelfahssi@gmail.com
 LinkedIn : www.linkedin.com/in/imadElFahssi
-
+<hr>
 
 <!---
 StringImad/StringImad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
