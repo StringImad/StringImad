@@ -3,8 +3,8 @@
 - 👀 I’m interested in creating and contributing to open-source projects, and I love to share my knowledge and experience with the community.</br>
 - 🌱 I’m currently learning Javascript, PHP and React.</br>
 - 💞️ I'm always open to connect and learn from other people in the industry.</br>
-- 📫 You can reach me out on:
-Email : imadelfahssi@gmail.com
+- 📫 You can reach me out on:</br>
+Email : imadelfahssi@gmail.com</br>
 LinkedIn : www.linkedin.com/in/imadElFahssi
 <hr>
 <h2>Languages, Frameworks, and tools</h2>
