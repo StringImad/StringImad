@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StringImad
 - 👀 I’m interested in creating and contributing to open-source projects, and I love to share my knowledge and experience with the community.
-- 🌱 I’m currently learning React, Django and Ruby.
+- 🌱 I’m currently learning Javascript, PHP and React.
 - 💞️ I'm always open to connect and learn from other people in the industry.
 - 📫 You can reach me out on:
 
