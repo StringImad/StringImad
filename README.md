@@ -12,6 +12,9 @@ LinkedIn : www.linkedin.com/in/imadElFahssi
   <a href="https://www.es.reactjs.org.net" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" alt="php" width="40" height="40" style="max-width: 100%;"> </a> 
   
 </p>
+<center><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stringimad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p></center>
+
+
 <!---
 StringImad/StringImad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
